@@ -6,7 +6,7 @@ Estimate the price of flight tickets based on various inputs like airline, route
 
 ## 🚀 Live Demo
 
-[Click here to use the app](https://your-streamlit-cloud-link.com) <!-- Add your actual Streamlit Cloud URL here -->
+[Click here to use the app]([https://your-streamlit-cloud-link.com](https://flight-fare-predictor-nikhur5ujscpvstcrdazmz.streamlit.app/)) <!-- Add your actual Streamlit Cloud URL here -->
 
 ---
 
